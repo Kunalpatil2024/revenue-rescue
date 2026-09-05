@@ -38,7 +38,6 @@ customer retention and revenue leakage.
 Brazilian E-Commerce Public Dataset by Olist.
 The raw dataset is not included in this repository.
 ## Dashboard
-Live application: [Add your Streamlit URL here]
+Live application:http://localhost:8501/#revenue-rescue
 ## Author
 Kunal Patil
-STEP 5 — 
